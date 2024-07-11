@@ -6,13 +6,7 @@
 
  🌱 I’m currently learning **MERN and Python.**
 
- 👨‍💻 All of my projects are available at [https://github.com/HeinHtet14120?tab=repositories](https://github.com/HeinHtet14120?tab=repositories)
-
- 💬 Ask me about **JS and Python.**
-
  📫 You can reach me at - **heinhtet14120@gmail.com**
-
- ⚡ **Beer and music are my two greatest loves, the rhythm of life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
