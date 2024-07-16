@@ -2,8 +2,6 @@
 <h1 align="center">What's good ? It's Hein Htet 🤙🏾</h1>
 <h3 align="left">A passionate full-stack developer representing Myanmar.</h3>
 
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Girl in a jacket">
-
  🌱 I’m currently learning **MERN and Python.**
 
  📫 You can reach me at - **heinhtet14120@gmail.com**
